@@ -1,9 +1,3 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/AllyJandrey/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/AllyJandrey/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/AllyJandrey/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/AllyJandrey/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/AllyJandrey/README-template?style=for-the-badge)
-
 ![round-rock-plumbing](https://user-images.githubusercontent.com/100244773/166848507-cd6d9e4e-e20f-47be-967f-86b96d049820.png)
 
 # Round Rock Plumbing
@@ -31,7 +25,7 @@ Computer Version:
 
 ### Contato
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allyson-menezes-jandrey-a295a8225/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jandreyallyson@gmail.com)
 
-<p align="center">Copyright © 2021 AllyJandrey</p>
+<p align="center">Copyright © 2022 AllyJandrey</p>
